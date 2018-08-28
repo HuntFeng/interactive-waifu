@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "18-8-18_Live2d_MeidoChan.moc3",
+		"Textures": [
+			"18-8-18_Live2d_MeidoChan.4096/texture_00.png",
+			"18-8-18_Live2d_MeidoChan.4096/texture_01.png"
+		],
+		"Physics": "18-8-18_Live2d_MeidoChan.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
